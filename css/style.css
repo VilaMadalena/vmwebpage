@@ -690,6 +690,13 @@ section::after {
 	border: 2px solid #F0A830;
 }
 
+.facts-text {
+	color: #FFF !important;
+	margin: 1% auto;
+	text-align: center;
+	visibility: hidden;
+}
+
 
 /* --------------- 11. UPCOMING EVENTS --------------- */
 
